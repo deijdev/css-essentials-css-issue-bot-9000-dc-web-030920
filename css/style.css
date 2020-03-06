@@ -13,11 +13,11 @@ h2 {
   color: green;
   font-weight: normal;
   font-style: italic;
-  font-size: 12px;
 }
 
 .completed {
   font-family: Sans-Serif;
+  font-size: 12px;
 }
 
 #tasks .completed {
